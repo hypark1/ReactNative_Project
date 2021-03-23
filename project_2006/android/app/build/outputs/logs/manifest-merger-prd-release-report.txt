@@ -1,0 +1,1175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:1:1-78:12
+INJECTED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:1:1-78:12
+INJECTED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:1:1-78:12
+INJECTED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:1:1-78:12
+MERGED from [:react-native-code-push] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-17:12
+MERGED from [:react-native-version-check] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-version-check/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-splash-screen] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-firebase] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-seoul-naver-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-seoul-kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-31:12
+MERGED from [:react-native-google-signin] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-community/google-signin/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-config] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-config/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:invertase_react-native-apple-authentication] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@invertase/react-native-apple-authentication/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-community_cameraroll] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-community/cameraroll/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_clipboard] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-community/clipboard/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_google-signin] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-community/google-signin/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_masked-view] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_picker] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-community/picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-seoul_kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-31:12
+MERGED from [:react-native-seoul_naver-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-device-info] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-24:12
+MERGED from [:react-native-fast-image] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-fbsdk] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:1-28:12
+MERGED from [:react-native-gesture-handler] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-kakao-links] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-kakao-links/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-localize] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-localize/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-picker-module] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-picker-module/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-secure-key-store] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-secure-key-store/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-share] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-svg] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-video] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-video/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webview] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-23:12
+MERGED from [:rn-fetch-blob] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-47:12
+MERGED from [com.facebook.react:react-native:0.63.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/af076d67e681b9c9ba3e2d6bf23575d8/jetified-react-native-0.63.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:2:1-43:12
+MERGED from [com.facebook.android:facebook-login:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/02f0ca172ae533a9a727a28185f31efc/facebook-login-7.1.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/37d90f84339442d5d865229791bf241b/facebook-share-7.1.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:21:1-52:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/a4f20889c06ef3bed7d55cf6852e5989/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.kakao.sdk:kakaolink:1.25.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/99c7df478cf2a27f2f6cab622200a082/kakaolink-1.25.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/54667f84e8d256dd2121c87d76cfa7ab/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/390f9a5474fcc7bcc9f7e4e8e8d96ab5/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/a1d64627529d8d421c0b27e7fdd4a3e1/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7e45cf4243ea5e233aa8231abdab37be/fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d5fa8160c766d7ac17b574787bdf0ea8/animated-gif-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-webp:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/0ca8d38762e661894f0603ed46c77436/animated-webp-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:webpsupport:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/43ba470a78257086486a42aebef9ec5d/webpsupport-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-core:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f6f905d3fd1750a1ad9a42a75e300c6b/firebase-core-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/9f7a73253425ee0bbeb3f4352be8f417/firebase-analytics-17.4.3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f7f23cc8e73938d75d9cdce20341724c/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:17:1-45:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/bbf0e9fab1af79c79ac1770ffe9175cc/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-sound] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-sound/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/490196c73d7d355edf6256c5fa5d120c/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7c9142c17550c92dab314dac75f37ca0/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/fac11e4053b0ee70596ac6ed52e12b3e/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.kakao.sdk:usermgmt:1.27.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/bb117f17a3d1c42fb4c7888ec9926807/usermgmt-1.27.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7e966e6b0545facb0f4b000449a25223/play-services-auth-17.0.0/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f657f895cb0ad5ee6ce7b4805207af07/firebase-datatransport-17.0.3/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/579aadedb57581780ee73635c0aef2f4/transport-backend-cct-2.2.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7d2291c29c7a6f87a454b865dc2f1866/transport-runtime-2.2.0/AndroidManifest.xml:15:1-41:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/54f47e8680bda1b98ae38fd8f8ab7dbd/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-base:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c168ef8411d98b895e0d35c66cf8594d/animated-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/be334fa7e1eafb9f54760f14f3d8754b/animated-drawable-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c8ba689a53df9ce7251ab27492d21fe5/drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/90de6959c0ffe1596e5b5e53f4273045/nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/946cd94b9accf91d88a597a403e45ec7/imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/a4133f6e656b087d4b969c7b25798bd8/nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/b48f4ca811610c1d9593d1c0715cd3b3/imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/975f8c03d68f11783cf6231ebd67bc88/soloader-0.8.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f1160fc2649e7226ff7e4bcc8dcde955/okhttp3-integration-4.11.0/AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c7c29bf62b52235055d9f44aab2ad520/glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/3435358544616ff9bf6ee201914856e7/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/10baf3b9a8d3bddb052061d481383ffd/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c1773e1998cf3a2431c84f35141c1764/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c67bc3d0ac69dfe086f68180c44a17ff/play-services-measurement-api-17.4.3/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f4263a10985329969f4656dc15ca7bde/firebase-iid-20.2.1/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d4fa9ae8f7b0112c59ca0d4a260f1536/firebase-installations-16.3.2/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/24932deec142a5b4ca902fb44510f986/jetified-firebase-common-19.3.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/5838f150c9a24b75111ea69a83deab35/jetified-firebase-components-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ebd42090b004afebb89ca27d2e93f839/firebase-encoders-json-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/92a637a6c0214e7430568e8ce4939a61/core-ktx-1.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c531877ac574da7730afb759f69e7e3a/play-services-measurement-17.4.3/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/6fb0032d135383a5096fa53292213883/play-services-measurement-sdk-17.4.3/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/160eb358cc1b51da36f78e160652ce01/play-services-iid-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e42cd3adecdb17aa0e23e75f0efcbf73/play-services-measurement-impl-17.4.3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/aa051279bcd1a3ccce02e7f639eb644b/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ceeb466ad379cb999bec384e2a30ff65/firebase-installations-interop-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/5ce1d558c110097a7b0e744fb65a3d3e/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c717395ba406549623a6a19a33c3d6cb/play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/935eb07c8901eb6504b7913381052582/firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/a8808dfeda94c47fb6332865b0619b8e/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7f76f57911a135d7dd2e1ba276f4dc40/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/4b84a4234c1fa000d417bdc6d89832cf/firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/355420c96442822581ce8d93ac131731/play-services-measurement-sdk-api-17.4.3/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/6535a37ef54ab2b0799fa8988c5c6dea/play-services-measurement-base-17.4.3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/8e640f3363916e1228fe1fd1f1055113/play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c65d14639602f30c06c81efd5ddd2dc6/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.kakao.sdk:auth:1.27.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ad31838cc191ddbbd755c3ee7e1ac2cb/auth-1.27.0/AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/bbc398285f05ec8695b99f070d16b9f5/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/2d5692fd5fab26d3e4ebf6a75a3ca76b/fragment-1.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.android:facebook-core:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c2ae22d84abffcbb468842d9ca0d4bd6/jetified-facebook-core-7.1.0/AndroidManifest.xml:21:1-53:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/b416638eaa6473fcb1029ce983bc0df0/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/1eb31c5173d0ebc2c1a772c214a3d2e8/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ca32a7e43efd893ebdd8f297cb4804c2/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/62532a1c33fa0c97df64d0a54c93171c/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/8e2bb978031cecd5189946981cf8314b/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/6beb4dec599646a76945b0755d21940b/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d48ca5706e309d13658a7d0e88faa174/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/4012eae0bc31540bac82b26ff944c485/activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/a798813f6c6fedecac9a727ec3fb5082/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/de30c2c77fed88b955fdb34d86ee7adf/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e90a5639643478a391e19a3474be22cc/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/aa5bc6685b7593e71fb846ac7bb825b3/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/cbd4092c8bd356faeb601cec2f57dcc2/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ccc22d6fb75e9e243cdd92201927fe84/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/191b1d8d2b30dce3511ec3ffb3c8dce0/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/0bb3ac5ce31ceb07b5b4b2ba1186b843/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/653965cbeee546a5d2bf7b253d8e7d71/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/011cc35caf726ae643935bf6c6195ce1/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7e9a1105ffa78a857901cc62c3422fad/gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/086c0c437726c5ec85cb98847625a6f9/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/85e879cb0207fd30eaec609de24ac739/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/75d8a9c96602bb8b1265f478d92cd410/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/336ddbe02b7166af49e68c2931e4cf31/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/256dfdc92da09b6ad186b884f57d44e3/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ba32d2ffc01815436189ba98bc93451e/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/0c9bc27f84ee1033f8c15648ea2b442b/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f74ebfa5b28422703001a3a07e1d3cf8/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/0f6737bca9d47d50b4750741ae3e76f9/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/91872b8b22cfdfb3295510cc6a1e4f31/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.kakao.sdk:network:1.27.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/1b738587a02a6f96541bd8c7c9d8d6c0/network-1.27.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.kakao.sdk:common:1.27.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/a9f033f7b34d7a1d73825134d5da0a54/common-1.27.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/4b86ebf4f1cfcb4a25b85627e3e7e07b/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/492fc5c27713717c844f92eef06c68a0/transport-api-2.2.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/8ba002f7a68d9d795657eec58afe7752/installreferrer-1.1.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/b9f2dfc0f2a28fab545e1ce002388d75/jetified-android-scalablevideoview-1.0.4/AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/64b0580bbd835378fb7d8f2c79ceda85/annotation-0.8.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.kakao.sdk:message-template:1.25.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/b851dee1863ae9ce5dcff4a6504ff3f3/message-template-1.25.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.kakao.sdk:util:1.27.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/46a384c7d514e111e3c2e55edf50ba9c/util-1.27.0/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:1:1-78:12
+INJECTED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:1:1-78:12
+INJECTED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:1:1-78:12
+	package
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:3:3-39
+		INJECTED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:1:1-78:12
+		INJECTED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:2:11-57
+	android:versionCode
+		INJECTED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:1:1-78:12
+		INJECTED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [:react-native-code-push] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-code-push] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-seoul-naver-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-seoul-naver-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-seoul-kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-seoul-kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-seoul_kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-seoul_kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-seoul_naver-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-seoul_naver-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:rn-fetch-blob] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-67
+MERGED from [:rn-fetch-blob] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-67
+MERGED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:14:5-67
+MERGED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/579aadedb57581780ee73635c0aef2f4/transport-backend-cct-2.2.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/579aadedb57581780ee73635c0aef2f4/transport-backend-cct-2.2.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c67bc3d0ac69dfe086f68180c44a17ff/play-services-measurement-api-17.4.3/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c67bc3d0ac69dfe086f68180c44a17ff/play-services-measurement-api-17.4.3/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f4263a10985329969f4656dc15ca7bde/firebase-iid-20.2.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f4263a10985329969f4656dc15ca7bde/firebase-iid-20.2.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d4fa9ae8f7b0112c59ca0d4a260f1536/firebase-installations-16.3.2/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d4fa9ae8f7b0112c59ca0d4a260f1536/firebase-installations-16.3.2/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c531877ac574da7730afb759f69e7e3a/play-services-measurement-17.4.3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c531877ac574da7730afb759f69e7e3a/play-services-measurement-17.4.3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/160eb358cc1b51da36f78e160652ce01/play-services-iid-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/160eb358cc1b51da36f78e160652ce01/play-services-iid-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e42cd3adecdb17aa0e23e75f0efcbf73/play-services-measurement-impl-17.4.3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e42cd3adecdb17aa0e23e75f0efcbf73/play-services-measurement-impl-17.4.3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/355420c96442822581ce8d93ac131731/play-services-measurement-sdk-api-17.4.3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/355420c96442822581ce8d93ac131731/play-services-measurement-sdk-api-17.4.3/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:7:22-63
+application
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:9:5-76:19
+MERGED from [:react-native-code-push] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-15:19
+MERGED from [:react-native-code-push] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-15:19
+MERGED from [:react-native-splash-screen] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-firebase] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-firebase] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-seoul-naver-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-19:19
+MERGED from [:react-native-seoul-naver-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-19:19
+MERGED from [:react-native-seoul-kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-29:19
+MERGED from [:react-native-seoul-kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-29:19
+MERGED from [:react-native-seoul_kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-29:19
+MERGED from [:react-native-seoul_kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-29:19
+MERGED from [:react-native-seoul_naver-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-19:19
+MERGED from [:react-native-seoul_naver-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-19:19
+MERGED from [:react-native-device-info] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-22:19
+MERGED from [:react-native-device-info] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-22:19
+MERGED from [:react-native-share] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-share] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:rn-fetch-blob] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-45:19
+MERGED from [:rn-fetch-blob] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-45:19
+MERGED from [com.facebook.react:react-native:0.63.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/af076d67e681b9c9ba3e2d6bf23575d8/jetified-react-native-0.63.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/af076d67e681b9c9ba3e2d6bf23575d8/jetified-react-native-0.63.2/AndroidManifest.xml:11:5-20
+MERGED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:16:5-41:19
+MERGED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:16:5-41:19
+MERGED from [com.facebook.android:facebook-login:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/02f0ca172ae533a9a727a28185f31efc/facebook-login-7.1.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/02f0ca172ae533a9a727a28185f31efc/facebook-login-7.1.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/37d90f84339442d5d865229791bf241b/facebook-share-7.1.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/37d90f84339442d5d865229791bf241b/facebook-share-7.1.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:29:5-50:19
+MERGED from [com.facebook.android:facebook-common:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:29:5-50:19
+MERGED from [com.google.firebase:firebase-core:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f6f905d3fd1750a1ad9a42a75e300c6b/firebase-core-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f6f905d3fd1750a1ad9a42a75e300c6b/firebase-core-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/9f7a73253425ee0bbeb3f4352be8f417/firebase-analytics-17.4.3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/9f7a73253425ee0bbeb3f4352be8f417/firebase-analytics-17.4.3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f7f23cc8e73938d75d9cdce20341724c/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.firebase:firebase-messaging:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f7f23cc8e73938d75d9cdce20341724c/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.android.material:material:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7c9142c17550c92dab314dac75f37ca0/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7c9142c17550c92dab314dac75f37ca0/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7e966e6b0545facb0f4b000449a25223/play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7e966e6b0545facb0f4b000449a25223/play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f657f895cb0ad5ee6ce7b4805207af07/firebase-datatransport-17.0.3/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f657f895cb0ad5ee6ce7b4805207af07/firebase-datatransport-17.0.3/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/579aadedb57581780ee73635c0aef2f4/transport-backend-cct-2.2.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/579aadedb57581780ee73635c0aef2f4/transport-backend-cct-2.2.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7d2291c29c7a6f87a454b865dc2f1866/transport-runtime-2.2.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7d2291c29c7a6f87a454b865dc2f1866/transport-runtime-2.2.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/975f8c03d68f11783cf6231ebd67bc88/soloader-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/975f8c03d68f11783cf6231ebd67bc88/soloader-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f1160fc2649e7226ff7e4bcc8dcde955/okhttp3-integration-4.11.0/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f1160fc2649e7226ff7e4bcc8dcde955/okhttp3-integration-4.11.0/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c7c29bf62b52235055d9f44aab2ad520/glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c7c29bf62b52235055d9f44aab2ad520/glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c67bc3d0ac69dfe086f68180c44a17ff/play-services-measurement-api-17.4.3/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c67bc3d0ac69dfe086f68180c44a17ff/play-services-measurement-api-17.4.3/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f4263a10985329969f4656dc15ca7bde/firebase-iid-20.2.1/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f4263a10985329969f4656dc15ca7bde/firebase-iid-20.2.1/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d4fa9ae8f7b0112c59ca0d4a260f1536/firebase-installations-16.3.2/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d4fa9ae8f7b0112c59ca0d4a260f1536/firebase-installations-16.3.2/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/24932deec142a5b4ca902fb44510f986/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/24932deec142a5b4ca902fb44510f986/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c531877ac574da7730afb759f69e7e3a/play-services-measurement-17.4.3/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c531877ac574da7730afb759f69e7e3a/play-services-measurement-17.4.3/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/6fb0032d135383a5096fa53292213883/play-services-measurement-sdk-17.4.3/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/6fb0032d135383a5096fa53292213883/play-services-measurement-sdk-17.4.3/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/160eb358cc1b51da36f78e160652ce01/play-services-iid-17.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/160eb358cc1b51da36f78e160652ce01/play-services-iid-17.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e42cd3adecdb17aa0e23e75f0efcbf73/play-services-measurement-impl-17.4.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e42cd3adecdb17aa0e23e75f0efcbf73/play-services-measurement-impl-17.4.3/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/aa051279bcd1a3ccce02e7f639eb644b/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/aa051279bcd1a3ccce02e7f639eb644b/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/935eb07c8901eb6504b7913381052582/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/935eb07c8901eb6504b7913381052582/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/a8808dfeda94c47fb6332865b0619b8e/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/a8808dfeda94c47fb6332865b0619b8e/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7f76f57911a135d7dd2e1ba276f4dc40/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7f76f57911a135d7dd2e1ba276f4dc40/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/4b84a4234c1fa000d417bdc6d89832cf/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/4b84a4234c1fa000d417bdc6d89832cf/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/6535a37ef54ab2b0799fa8988c5c6dea/play-services-measurement-base-17.4.3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/6535a37ef54ab2b0799fa8988c5c6dea/play-services-measurement-base-17.4.3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/8e640f3363916e1228fe1fd1f1055113/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/8e640f3363916e1228fe1fd1f1055113/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c65d14639602f30c06c81efd5ddd2dc6/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c65d14639602f30c06c81efd5ddd2dc6/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.kakao.sdk:auth:1.27.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ad31838cc191ddbbd755c3ee7e1ac2cb/auth-1.27.0/AndroidManifest.xml:11:5-20:19
+MERGED from [com.kakao.sdk:auth:1.27.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ad31838cc191ddbbd755c3ee7e1ac2cb/auth-1.27.0/AndroidManifest.xml:11:5-20:19
+MERGED from [com.facebook.android:facebook-core:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c2ae22d84abffcbb468842d9ca0d4bd6/jetified-facebook-core-7.1.0/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c2ae22d84abffcbb468842d9ca0d4bd6/jetified-facebook-core-7.1.0/AndroidManifest.xml:28:5-51:19
+MERGED from [androidx.core:core:1.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/191b1d8d2b30dce3511ec3ffb3c8dce0/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/191b1d8d2b30dce3511ec3ffb3c8dce0/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/0bb3ac5ce31ceb07b5b4b2ba1186b843/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/0bb3ac5ce31ceb07b5b4b2ba1186b843/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7e9a1105ffa78a857901cc62c3422fad/gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7e9a1105ffa78a857901cc62c3422fad/gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/8ba002f7a68d9d795657eec58afe7752/installreferrer-1.1.2/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/8ba002f7a68d9d795657eec58afe7752/installreferrer-1.1.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/64b0580bbd835378fb7d8f2c79ceda85/annotation-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/64b0580bbd835378fb7d8f2c79ceda85/annotation-0.8.2/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/191b1d8d2b30dce3511ec3ffb3c8dce0/core-1.2.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [:react-native-seoul-kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:11:7-39
+	android:roundIcon
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:13:7-52
+	android:icon
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:12:7-41
+	android:allowBackup
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:14:7-34
+		REJECTED from [:react-native-seoul-kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:9-35
+		REJECTED from [:react-native-seoul_kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:16:7-38
+	tools:replace
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:15:7-42
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:10:7-38
+meta-data#com.kakao.sdk.AppKey
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:18:7-19:58
+MERGED from [:react-native-seoul-kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:9-21:53
+MERGED from [:react-native-seoul-kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:9-21:53
+MERGED from [:react-native-seoul_kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:9-21:53
+MERGED from [:react-native-seoul_kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:9-21:53
+	android:value
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:19:18-55
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:18:18-53
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:20:7-21:59
+	android:value
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:21:18-57
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:20:18-63
+provider#com.facebook.FacebookContentProvider
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:22:9-24:45
+	android:authorities
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:22:19-66
+	android:exported
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:24:19-42
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:23:19-70
+activity#com.hodoolabs.hodoomembers.MainActivity
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:26:7-37:18
+	android:screenOrientation
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:31:9-45
+	android:label
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:28:9-41
+	android:launchMode
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:30:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:32:9-51
+	android:configChanges
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:29:9-86
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:27:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:33:9-36:25
+action#android.intent.action.MAIN
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:34:13-65
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:34:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:35:23-70
+activity#com.hodoolabs.hodoomembers.CustomActivity
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:38:9-43:20
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:38:19-49
+intent-filter#action:name:chunk+category:name:android.intent.category.DEFAULT
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:39:13-42:29
+action#chunk
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:40:17-48
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:40:25-45
+category#android.intent.category.DEFAULT
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:41:27-73
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:44:9-86
+MERGED from [:react-native-code-push] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/release/AndroidManifest.xml:14:9-86
+MERGED from [:react-native-code-push] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/release/AndroidManifest.xml:14:9-86
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:44:19-83
+service#io.invertase.firebase.messaging.RNFirebaseMessagingService
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:45:9-49:19
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:45:18-91
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:46:13-48:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:47:17-78
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:47:25-75
+service#io.invertase.firebase.messaging.RNFirebaseInstanceIdService
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:50:9-54:19
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:50:18-92
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:51:13-53:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:52:17-79
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:52:25-77
+service#io.invertase.firebase.messaging.RNFirebaseBackgroundMessagingService
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:55:9-104
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:55:18-101
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:56:9-58:64
+	android:resource
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:58:17-61
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:57:17-87
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:59:9-62:51
+	android:resource
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:61:17-52
+	tools:replace
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:62:17-49
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:60:17-88
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:63:9-65:74
+	android:value
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:65:17-72
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:64:17-93
+receiver#io.invertase.firebase.notifications.RNFirebaseNotificationReceiver
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:67:9-102
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:67:19-100
+receiver#io.invertase.firebase.notifications.RNFirebaseNotificationsRebootReceiver
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:68:9-75:20
+	android:enabled
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:68:19-41
+	android:exported
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:68:42-65
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:68:67-155
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON+category:name:android.intent.category.DEFAULT
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:69:13-74:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:70:17-78
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:70:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:71:17-81
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:71:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:72:17-81
+	android:name
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml:72:25-79
+uses-sdk
+INJECTED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-code-push] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-code-push] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-code-push/android/app/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-version-check] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-version-check/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-version-check] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-version-check/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-seoul-naver-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-seoul-naver-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-seoul-kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-seoul-kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-signin] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-community/google-signin/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-signin] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-community/google-signin/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-config] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-config/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-config] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-config/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:invertase_react-native-apple-authentication] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@invertase/react-native-apple-authentication/android/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [:invertase_react-native-apple-authentication] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@invertase/react-native-apple-authentication/android/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-community_cameraroll] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-community/cameraroll/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_cameraroll] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-community/cameraroll/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_clipboard] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-community/clipboard/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_clipboard] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-community/clipboard/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_google-signin] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-community/google-signin/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_google-signin] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-community/google-signin/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_masked-view] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_picker] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-community/picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_picker] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-community/picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-seoul_kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-seoul_kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-seoul_naver-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-seoul_naver-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-device-info] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-fast-image] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fbsdk] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/release/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-fbsdk] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/release/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-gesture-handler] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-kakao-links] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-kakao-links/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-kakao-links] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-kakao-links/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-localize] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-localize/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-localize] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-localize/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-picker-module] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-picker-module/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-picker-module] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-picker-module/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-secure-key-store] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-secure-key-store/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-secure-key-store] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-secure-key-store/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-share] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-share] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-video] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-video/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-video/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/af076d67e681b9c9ba3e2d6bf23575d8/jetified-react-native-0.63.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/af076d67e681b9c9ba3e2d6bf23575d8/jetified-react-native-0.63.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:8:5-11:52
+MERGED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:8:5-11:52
+MERGED from [com.facebook.android:facebook-login:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/02f0ca172ae533a9a727a28185f31efc/facebook-login-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/02f0ca172ae533a9a727a28185f31efc/facebook-login-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/37d90f84339442d5d865229791bf241b/facebook-share-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/37d90f84339442d5d865229791bf241b/facebook-share-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:25:5-27:41
+MERGED from [com.facebook.android:facebook-common:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:25:5-27:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/a4f20889c06ef3bed7d55cf6852e5989/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/a4f20889c06ef3bed7d55cf6852e5989/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.kakao.sdk:kakaolink:1.25.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/99c7df478cf2a27f2f6cab622200a082/kakaolink-1.25.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.kakao.sdk:kakaolink:1.25.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/99c7df478cf2a27f2f6cab622200a082/kakaolink-1.25.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.browser:browser:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/54667f84e8d256dd2121c87d76cfa7ab/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/54667f84e8d256dd2121c87d76cfa7ab/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/390f9a5474fcc7bcc9f7e4e8e8d96ab5/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/390f9a5474fcc7bcc9f7e4e8e8d96ab5/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/a1d64627529d8d421c0b27e7fdd4a3e1/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/a1d64627529d8d421c0b27e7fdd4a3e1/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7e45cf4243ea5e233aa8231abdab37be/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7e45cf4243ea5e233aa8231abdab37be/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d5fa8160c766d7ac17b574787bdf0ea8/animated-gif-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d5fa8160c766d7ac17b574787bdf0ea8/animated-gif-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-webp:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/0ca8d38762e661894f0603ed46c77436/animated-webp-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-webp:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/0ca8d38762e661894f0603ed46c77436/animated-webp-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:webpsupport:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/43ba470a78257086486a42aebef9ec5d/webpsupport-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:webpsupport:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/43ba470a78257086486a42aebef9ec5d/webpsupport-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f6f905d3fd1750a1ad9a42a75e300c6b/firebase-core-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f6f905d3fd1750a1ad9a42a75e300c6b/firebase-core-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/9f7a73253425ee0bbeb3f4352be8f417/firebase-analytics-17.4.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/9f7a73253425ee0bbeb3f4352be8f417/firebase-analytics-17.4.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f7f23cc8e73938d75d9cdce20341724c/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f7f23cc8e73938d75d9cdce20341724c/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/bbf0e9fab1af79c79ac1770ffe9175cc/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/bbf0e9fab1af79c79ac1770ffe9175cc/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sound] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-sound/android/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-sound] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-sound/android/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/490196c73d7d355edf6256c5fa5d120c/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/490196c73d7d355edf6256c5fa5d120c/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.material:material:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7c9142c17550c92dab314dac75f37ca0/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7c9142c17550c92dab314dac75f37ca0/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/fac11e4053b0ee70596ac6ed52e12b3e/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/fac11e4053b0ee70596ac6ed52e12b3e/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.kakao.sdk:usermgmt:1.27.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/bb117f17a3d1c42fb4c7888ec9926807/usermgmt-1.27.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.kakao.sdk:usermgmt:1.27.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/bb117f17a3d1c42fb4c7888ec9926807/usermgmt-1.27.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7e966e6b0545facb0f4b000449a25223/play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7e966e6b0545facb0f4b000449a25223/play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f657f895cb0ad5ee6ce7b4805207af07/firebase-datatransport-17.0.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f657f895cb0ad5ee6ce7b4805207af07/firebase-datatransport-17.0.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/579aadedb57581780ee73635c0aef2f4/transport-backend-cct-2.2.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/579aadedb57581780ee73635c0aef2f4/transport-backend-cct-2.2.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7d2291c29c7a6f87a454b865dc2f1866/transport-runtime-2.2.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7d2291c29c7a6f87a454b865dc2f1866/transport-runtime-2.2.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/54f47e8680bda1b98ae38fd8f8ab7dbd/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/54f47e8680bda1b98ae38fd8f8ab7dbd/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c168ef8411d98b895e0d35c66cf8594d/animated-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c168ef8411d98b895e0d35c66cf8594d/animated-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/be334fa7e1eafb9f54760f14f3d8754b/animated-drawable-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/be334fa7e1eafb9f54760f14f3d8754b/animated-drawable-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c8ba689a53df9ce7251ab27492d21fe5/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c8ba689a53df9ce7251ab27492d21fe5/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/90de6959c0ffe1596e5b5e53f4273045/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/90de6959c0ffe1596e5b5e53f4273045/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/946cd94b9accf91d88a597a403e45ec7/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/946cd94b9accf91d88a597a403e45ec7/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/a4133f6e656b087d4b969c7b25798bd8/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/a4133f6e656b087d4b969c7b25798bd8/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/b48f4ca811610c1d9593d1c0715cd3b3/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/b48f4ca811610c1d9593d1c0715cd3b3/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/975f8c03d68f11783cf6231ebd67bc88/soloader-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/975f8c03d68f11783cf6231ebd67bc88/soloader-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f1160fc2649e7226ff7e4bcc8dcde955/okhttp3-integration-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f1160fc2649e7226ff7e4bcc8dcde955/okhttp3-integration-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c7c29bf62b52235055d9f44aab2ad520/glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c7c29bf62b52235055d9f44aab2ad520/glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/3435358544616ff9bf6ee201914856e7/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/3435358544616ff9bf6ee201914856e7/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/10baf3b9a8d3bddb052061d481383ffd/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/10baf3b9a8d3bddb052061d481383ffd/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c1773e1998cf3a2431c84f35141c1764/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c1773e1998cf3a2431c84f35141c1764/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c67bc3d0ac69dfe086f68180c44a17ff/play-services-measurement-api-17.4.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c67bc3d0ac69dfe086f68180c44a17ff/play-services-measurement-api-17.4.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f4263a10985329969f4656dc15ca7bde/firebase-iid-20.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f4263a10985329969f4656dc15ca7bde/firebase-iid-20.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d4fa9ae8f7b0112c59ca0d4a260f1536/firebase-installations-16.3.2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d4fa9ae8f7b0112c59ca0d4a260f1536/firebase-installations-16.3.2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/24932deec142a5b4ca902fb44510f986/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/24932deec142a5b4ca902fb44510f986/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/5838f150c9a24b75111ea69a83deab35/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/5838f150c9a24b75111ea69a83deab35/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ebd42090b004afebb89ca27d2e93f839/firebase-encoders-json-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ebd42090b004afebb89ca27d2e93f839/firebase-encoders-json-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/92a637a6c0214e7430568e8ce4939a61/core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/92a637a6c0214e7430568e8ce4939a61/core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c531877ac574da7730afb759f69e7e3a/play-services-measurement-17.4.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c531877ac574da7730afb759f69e7e3a/play-services-measurement-17.4.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/6fb0032d135383a5096fa53292213883/play-services-measurement-sdk-17.4.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/6fb0032d135383a5096fa53292213883/play-services-measurement-sdk-17.4.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/160eb358cc1b51da36f78e160652ce01/play-services-iid-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/160eb358cc1b51da36f78e160652ce01/play-services-iid-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e42cd3adecdb17aa0e23e75f0efcbf73/play-services-measurement-impl-17.4.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e42cd3adecdb17aa0e23e75f0efcbf73/play-services-measurement-impl-17.4.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/aa051279bcd1a3ccce02e7f639eb644b/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/aa051279bcd1a3ccce02e7f639eb644b/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ceeb466ad379cb999bec384e2a30ff65/firebase-installations-interop-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ceeb466ad379cb999bec384e2a30ff65/firebase-installations-interop-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/5ce1d558c110097a7b0e744fb65a3d3e/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/5ce1d558c110097a7b0e744fb65a3d3e/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c717395ba406549623a6a19a33c3d6cb/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c717395ba406549623a6a19a33c3d6cb/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/935eb07c8901eb6504b7913381052582/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/935eb07c8901eb6504b7913381052582/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/a8808dfeda94c47fb6332865b0619b8e/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/a8808dfeda94c47fb6332865b0619b8e/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7f76f57911a135d7dd2e1ba276f4dc40/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7f76f57911a135d7dd2e1ba276f4dc40/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/4b84a4234c1fa000d417bdc6d89832cf/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/4b84a4234c1fa000d417bdc6d89832cf/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/355420c96442822581ce8d93ac131731/play-services-measurement-sdk-api-17.4.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/355420c96442822581ce8d93ac131731/play-services-measurement-sdk-api-17.4.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/6535a37ef54ab2b0799fa8988c5c6dea/play-services-measurement-base-17.4.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/6535a37ef54ab2b0799fa8988c5c6dea/play-services-measurement-base-17.4.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/8e640f3363916e1228fe1fd1f1055113/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/8e640f3363916e1228fe1fd1f1055113/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c65d14639602f30c06c81efd5ddd2dc6/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c65d14639602f30c06c81efd5ddd2dc6/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.kakao.sdk:auth:1.27.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ad31838cc191ddbbd755c3ee7e1ac2cb/auth-1.27.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.kakao.sdk:auth:1.27.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ad31838cc191ddbbd755c3ee7e1ac2cb/auth-1.27.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/bbc398285f05ec8695b99f070d16b9f5/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/bbc398285f05ec8695b99f070d16b9f5/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/2d5692fd5fab26d3e4ebf6a75a3ca76b/fragment-1.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/2d5692fd5fab26d3e4ebf6a75a3ca76b/fragment-1.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.android:facebook-core:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c2ae22d84abffcbb468842d9ca0d4bd6/jetified-facebook-core-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c2ae22d84abffcbb468842d9ca0d4bd6/jetified-facebook-core-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/b416638eaa6473fcb1029ce983bc0df0/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/b416638eaa6473fcb1029ce983bc0df0/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/1eb31c5173d0ebc2c1a772c214a3d2e8/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/1eb31c5173d0ebc2c1a772c214a3d2e8/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ca32a7e43efd893ebdd8f297cb4804c2/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ca32a7e43efd893ebdd8f297cb4804c2/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/62532a1c33fa0c97df64d0a54c93171c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/62532a1c33fa0c97df64d0a54c93171c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/8e2bb978031cecd5189946981cf8314b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/8e2bb978031cecd5189946981cf8314b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/6beb4dec599646a76945b0755d21940b/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/6beb4dec599646a76945b0755d21940b/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d48ca5706e309d13658a7d0e88faa174/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d48ca5706e309d13658a7d0e88faa174/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/4012eae0bc31540bac82b26ff944c485/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/4012eae0bc31540bac82b26ff944c485/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/a798813f6c6fedecac9a727ec3fb5082/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/a798813f6c6fedecac9a727ec3fb5082/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/de30c2c77fed88b955fdb34d86ee7adf/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/de30c2c77fed88b955fdb34d86ee7adf/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e90a5639643478a391e19a3474be22cc/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e90a5639643478a391e19a3474be22cc/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/aa5bc6685b7593e71fb846ac7bb825b3/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/aa5bc6685b7593e71fb846ac7bb825b3/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/cbd4092c8bd356faeb601cec2f57dcc2/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/cbd4092c8bd356faeb601cec2f57dcc2/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ccc22d6fb75e9e243cdd92201927fe84/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ccc22d6fb75e9e243cdd92201927fe84/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/191b1d8d2b30dce3511ec3ffb3c8dce0/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/191b1d8d2b30dce3511ec3ffb3c8dce0/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/0bb3ac5ce31ceb07b5b4b2ba1186b843/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/0bb3ac5ce31ceb07b5b4b2ba1186b843/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/653965cbeee546a5d2bf7b253d8e7d71/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/653965cbeee546a5d2bf7b253d8e7d71/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/011cc35caf726ae643935bf6c6195ce1/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/011cc35caf726ae643935bf6c6195ce1/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7e9a1105ffa78a857901cc62c3422fad/gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7e9a1105ffa78a857901cc62c3422fad/gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/086c0c437726c5ec85cb98847625a6f9/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/086c0c437726c5ec85cb98847625a6f9/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/85e879cb0207fd30eaec609de24ac739/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/85e879cb0207fd30eaec609de24ac739/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/75d8a9c96602bb8b1265f478d92cd410/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/75d8a9c96602bb8b1265f478d92cd410/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/336ddbe02b7166af49e68c2931e4cf31/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/336ddbe02b7166af49e68c2931e4cf31/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/256dfdc92da09b6ad186b884f57d44e3/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/256dfdc92da09b6ad186b884f57d44e3/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ba32d2ffc01815436189ba98bc93451e/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ba32d2ffc01815436189ba98bc93451e/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/0c9bc27f84ee1033f8c15648ea2b442b/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/0c9bc27f84ee1033f8c15648ea2b442b/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f74ebfa5b28422703001a3a07e1d3cf8/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f74ebfa5b28422703001a3a07e1d3cf8/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/0f6737bca9d47d50b4750741ae3e76f9/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/0f6737bca9d47d50b4750741ae3e76f9/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/91872b8b22cfdfb3295510cc6a1e4f31/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/91872b8b22cfdfb3295510cc6a1e4f31/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.kakao.sdk:network:1.27.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/1b738587a02a6f96541bd8c7c9d8d6c0/network-1.27.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.kakao.sdk:network:1.27.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/1b738587a02a6f96541bd8c7c9d8d6c0/network-1.27.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.kakao.sdk:common:1.27.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/a9f033f7b34d7a1d73825134d5da0a54/common-1.27.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.kakao.sdk:common:1.27.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/a9f033f7b34d7a1d73825134d5da0a54/common-1.27.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/4b86ebf4f1cfcb4a25b85627e3e7e07b/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/4b86ebf4f1cfcb4a25b85627e3e7e07b/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/492fc5c27713717c844f92eef06c68a0/transport-api-2.2.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/492fc5c27713717c844f92eef06c68a0/transport-api-2.2.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/8ba002f7a68d9d795657eec58afe7752/installreferrer-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/8ba002f7a68d9d795657eec58afe7752/installreferrer-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/b9f2dfc0f2a28fab545e1ce002388d75/jetified-android-scalablevideoview-1.0.4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/b9f2dfc0f2a28fab545e1ce002388d75/jetified-android-scalablevideoview-1.0.4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/64b0580bbd835378fb7d8f2c79ceda85/annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/64b0580bbd835378fb7d8f2c79ceda85/annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.kakao.sdk:message-template:1.25.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/b851dee1863ae9ce5dcff4a6504ff3f3/message-template-1.25.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.kakao.sdk:message-template:1.25.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/b851dee1863ae9ce5dcff4a6504ff3f3/message-template-1.25.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.kakao.sdk:util:1.27.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/46a384c7d514e111e3c2e55edf50ba9c/util-1.27.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.kakao.sdk:util:1.27.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/46a384c7d514e111e3c2e55edf50ba9c/util-1.27.0/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:11:9-49
+	android:targetSdkVersion
+		INJECTED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-68
+MERGED from [:rn-fetch-blob] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:5-68
+MERGED from [:rn-fetch-blob] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c67bc3d0ac69dfe086f68180c44a17ff/play-services-measurement-api-17.4.3/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c67bc3d0ac69dfe086f68180c44a17ff/play-services-measurement-api-17.4.3/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f4263a10985329969f4656dc15ca7bde/firebase-iid-20.2.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f4263a10985329969f4656dc15ca7bde/firebase-iid-20.2.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c531877ac574da7730afb759f69e7e3a/play-services-measurement-17.4.3/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c531877ac574da7730afb759f69e7e3a/play-services-measurement-17.4.3/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e42cd3adecdb17aa0e23e75f0efcbf73/play-services-measurement-impl-17.4.3/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e42cd3adecdb17aa0e23e75f0efcbf73/play-services-measurement-impl-17.4.3/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/355420c96442822581ce8d93ac131731/play-services-measurement-sdk-api-17.4.3/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/355420c96442822581ce8d93ac131731/play-services-measurement-sdk-api-17.4.3/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:react-native-firebase] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-79
+MERGED from [:react-native-seoul-naver-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-79
+MERGED from [:react-native-seoul-naver-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-79
+MERGED from [:react-native-seoul_naver-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-79
+MERGED from [:react-native-seoul_naver-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-79
+MERGED from [:rn-fetch-blob] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:27:5-79
+MERGED from [:rn-fetch-blob] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:27:5-79
+MERGED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:13:5-79
+MERGED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/579aadedb57581780ee73635c0aef2f4/transport-backend-cct-2.2.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/579aadedb57581780ee73635c0aef2f4/transport-backend-cct-2.2.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7d2291c29c7a6f87a454b865dc2f1866/transport-runtime-2.2.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7d2291c29c7a6f87a454b865dc2f1866/transport-runtime-2.2.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c67bc3d0ac69dfe086f68180c44a17ff/play-services-measurement-api-17.4.3/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c67bc3d0ac69dfe086f68180c44a17ff/play-services-measurement-api-17.4.3/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f4263a10985329969f4656dc15ca7bde/firebase-iid-20.2.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f4263a10985329969f4656dc15ca7bde/firebase-iid-20.2.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d4fa9ae8f7b0112c59ca0d4a260f1536/firebase-installations-16.3.2/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d4fa9ae8f7b0112c59ca0d4a260f1536/firebase-installations-16.3.2/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c531877ac574da7730afb759f69e7e3a/play-services-measurement-17.4.3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c531877ac574da7730afb759f69e7e3a/play-services-measurement-17.4.3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e42cd3adecdb17aa0e23e75f0efcbf73/play-services-measurement-impl-17.4.3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e42cd3adecdb17aa0e23e75f0efcbf73/play-services-measurement-impl-17.4.3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/355420c96442822581ce8d93ac131731/play-services-measurement-sdk-api-17.4.3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/355420c96442822581ce8d93ac131731/play-services-measurement-sdk-api-17.4.3/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:react-native-firebase] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:9-20:19
+MERGED from [com.google.firebase:firebase-messaging:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f7f23cc8e73938d75d9cdce20341724c/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:36:9-42:19
+MERGED from [com.google.firebase:firebase-messaging:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f7f23cc8e73938d75d9cdce20341724c/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:36:9-42:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f657f895cb0ad5ee6ce7b4805207af07/firebase-datatransport-17.0.3/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f657f895cb0ad5ee6ce7b4805207af07/firebase-datatransport-17.0.3/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c67bc3d0ac69dfe086f68180c44a17ff/play-services-measurement-api-17.4.3/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c67bc3d0ac69dfe086f68180c44a17ff/play-services-measurement-api-17.4.3/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f4263a10985329969f4656dc15ca7bde/firebase-iid-20.2.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f4263a10985329969f4656dc15ca7bde/firebase-iid-20.2.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d4fa9ae8f7b0112c59ca0d4a260f1536/firebase-installations-16.3.2/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d4fa9ae8f7b0112c59ca0d4a260f1536/firebase-installations-16.3.2/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/24932deec142a5b4ca902fb44510f986/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/24932deec142a5b4ca902fb44510f986/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f7f23cc8e73938d75d9cdce20341724c/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:38:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/24932deec142a5b4ca902fb44510f986/jetified-firebase-common-19.3.0/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/24932deec142a5b4ca902fb44510f986/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [:react-native-firebase] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:18-89
+meta-data#com.google.firebase.components:io.invertase.firebase.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [:react-native-firebase] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [:react-native-firebase] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-firebase/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:17-116
+activity#com.nhn.android.naverlogin.ui.OAuthLoginInAppBrowserActivity
+ADDED from [:react-native-seoul-naver-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:9-18:52
+MERGED from [:react-native-seoul_naver-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:9-18:52
+MERGED from [:react-native-seoul_naver-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:9-18:52
+MERGED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:20:9-23:47
+MERGED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:20:9-23:47
+	android:screenOrientation
+		ADDED from [:react-native-seoul-naver-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:13-49
+	android:label
+		ADDED from [:react-native-seoul-naver-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-44
+	android:configChanges
+		ADDED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:22:13-59
+	android:name
+		ADDED from [:react-native-seoul-naver-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-88
+activity#com.kakao.auth.authorization.authcode.KakaoWebViewActivity
+ADDED from [:react-native-seoul-kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:23:9-28:20
+MERGED from [:react-native-seoul_kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:23:9-28:20
+MERGED from [:react-native-seoul_kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:23:9-28:20
+MERGED from [com.kakao.sdk:auth:1.27.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ad31838cc191ddbbd755c3ee7e1ac2cb/auth-1.27.0/AndroidManifest.xml:12:9-19:20
+MERGED from [com.kakao.sdk:auth:1.27.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ad31838cc191ddbbd755c3ee7e1ac2cb/auth-1.27.0/AndroidManifest.xml:12:9-19:20
+	android:label
+		ADDED from [com.kakao.sdk:auth:1.27.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ad31838cc191ddbbd755c3ee7e1ac2cb/auth-1.27.0/AndroidManifest.xml:16:13-59
+	android:launchMode
+		ADDED from [:react-native-seoul-kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:26:13-43
+	android:windowSoftInputMode
+		ADDED from [:react-native-seoul-kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:27:13-55
+	android:exported
+		ADDED from [:react-native-seoul-kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:25:13-37
+	android:configChanges
+		ADDED from [com.kakao.sdk:auth:1.27.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ad31838cc191ddbbd755c3ee7e1ac2cb/auth-1.27.0/AndroidManifest.xml:14:13-59
+	android:name
+		ADDED from [:react-native-seoul-kakao-login] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:24:13-86
+receiver#com.learnium.RNDeviceInfo.RNDeviceReceiver
+ADDED from [:react-native-device-info] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:9-21:20
+	android:enabled
+		ADDED from [:react-native-device-info] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-35
+	android:exported
+		ADDED from [:react-native-device-info] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-36
+	tools:ignore
+		ADDED from [:react-native-device-info] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from [:react-native-device-info] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-70
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:13-20:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-79
+	android:name
+		ADDED from [:react-native-device-info] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:25-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:react-native-share] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-81
+MERGED from [:rn-fetch-blob] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-81
+MERGED from [:rn-fetch-blob] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from [:react-native-share] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:22-78
+provider#cl.json.RNShareFileProvider
+ADDED from [:react-native-share] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-share] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-share] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [:react-native-share] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-share] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-55
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-share] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-19:64
+	android:resource
+		ADDED from [:react-native-share] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-61
+	android:name
+		ADDED from [:react-native-share] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-share/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:17-67
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-83
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [:rn-fetch-blob] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:22-70
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:rn-fetch-blob] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:22-73
+provider#com.RNFetchBlob.Utils.FileProvider
+ADDED from [:rn-fetch-blob] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:36:9-44:20
+	android:grantUriPermissions
+		ADDED from [:rn-fetch-blob] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:40:13-47
+	android:authorities
+		ADDED from [:rn-fetch-blob] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:38:13-60
+	android:exported
+		ADDED from [:rn-fetch-blob] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/hodoolabs/WebstormProjects/merge/GSP-V2-PAFront/GSPApp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:37:13-62
+activity#com.nhn.android.naverlogin.ui.OAuthLoginActivity
+ADDED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:17:9-19:67
+	android:theme
+		ADDED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:19:13-64
+	android:name
+		ADDED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:18:13-76
+activity#com.nhn.android.naverlogin.ui.OAuthCustomTabActivity
+ADDED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:24:9-40:20
+	android:launchMode
+		ADDED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:27:13-44
+	android:configChanges
+		ADDED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:26:13-59
+	android:theme
+		ADDED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:28:13-72
+	android:name
+		ADDED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:25:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:authorize+data:path:/+data:scheme:naver3rdpartylogin
+ADDED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:29:13-39:29
+action#android.intent.action.VIEW
+ADDED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:30:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:33:17-78
+	android:name
+		ADDED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:33:27-75
+data
+ADDED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:35:17-38:59
+	android:path
+		ADDED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:37:21-37
+	android:host
+		ADDED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:36:21-45
+	android:scheme
+		ADDED from [com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/207e95692ff6c6b11d34c3c0cd7522bc/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:38:21-56
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:30:9-33:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:32:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:33:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:31:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:34:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:34:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:35:9-49:20
+	tools:node
+		ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:38:13-31
+	android:exported
+		ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:36:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.${applicationId}+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:39:13-48:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.hodoolabs.hodoomembers+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ca1b28fdad370ed7e36f93fa8f456397/facebook-common-7.1.0/AndroidManifest.xml:39:13-48:29
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f7f23cc8e73938d75d9cdce20341724c/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:28:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f7f23cc8e73938d75d9cdce20341724c/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:31:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f7f23cc8e73938d75d9cdce20341724c/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:30:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f7f23cc8e73938d75d9cdce20341724c/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:29:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f7f23cc8e73938d75d9cdce20341724c/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:39:13-41:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f7f23cc8e73938d75d9cdce20341724c/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:41:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f7f23cc8e73938d75d9cdce20341724c/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:40:17-119
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7e966e6b0545facb0f4b000449a25223/play-services-auth-17.0.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7e966e6b0545facb0f4b000449a25223/play-services-auth-17.0.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7e966e6b0545facb0f4b000449a25223/play-services-auth-17.0.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7e966e6b0545facb0f4b000449a25223/play-services-auth-17.0.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7e966e6b0545facb0f4b000449a25223/play-services-auth-17.0.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7e966e6b0545facb0f4b000449a25223/play-services-auth-17.0.0/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7e966e6b0545facb0f4b000449a25223/play-services-auth-17.0.0/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7e966e6b0545facb0f4b000449a25223/play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7e966e6b0545facb0f4b000449a25223/play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f657f895cb0ad5ee6ce7b4805207af07/firebase-datatransport-17.0.3/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f657f895cb0ad5ee6ce7b4805207af07/firebase-datatransport-17.0.3/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f657f895cb0ad5ee6ce7b4805207af07/firebase-datatransport-17.0.3/AndroidManifest.xml:29:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/579aadedb57581780ee73635c0aef2f4/transport-backend-cct-2.2.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7d2291c29c7a6f87a454b865dc2f1866/transport-runtime-2.2.0/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7d2291c29c7a6f87a454b865dc2f1866/transport-runtime-2.2.0/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/579aadedb57581780ee73635c0aef2f4/transport-backend-cct-2.2.0/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/579aadedb57581780ee73635c0aef2f4/transport-backend-cct-2.2.0/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/579aadedb57581780ee73635c0aef2f4/transport-backend-cct-2.2.0/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/579aadedb57581780ee73635c0aef2f4/transport-backend-cct-2.2.0/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/579aadedb57581780ee73635c0aef2f4/transport-backend-cct-2.2.0/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7d2291c29c7a6f87a454b865dc2f1866/transport-runtime-2.2.0/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7d2291c29c7a6f87a454b865dc2f1866/transport-runtime-2.2.0/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7d2291c29c7a6f87a454b865dc2f1866/transport-runtime-2.2.0/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7d2291c29c7a6f87a454b865dc2f1866/transport-runtime-2.2.0/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7d2291c29c7a6f87a454b865dc2f1866/transport-runtime-2.2.0/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7d2291c29c7a6f87a454b865dc2f1866/transport-runtime-2.2.0/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7d2291c29c7a6f87a454b865dc2f1866/transport-runtime-2.2.0/AndroidManifest.xml:33:13-132
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f1160fc2649e7226ff7e4bcc8dcde955/okhttp3-integration-4.11.0/AndroidManifest.xml:11:9-13:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f1160fc2649e7226ff7e4bcc8dcde955/okhttp3-integration-4.11.0/AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f1160fc2649e7226ff7e4bcc8dcde955/okhttp3-integration-4.11.0/AndroidManifest.xml:12:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c67bc3d0ac69dfe086f68180c44a17ff/play-services-measurement-api-17.4.3/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c67bc3d0ac69dfe086f68180c44a17ff/play-services-measurement-api-17.4.3/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c67bc3d0ac69dfe086f68180c44a17ff/play-services-measurement-api-17.4.3/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f4263a10985329969f4656dc15ca7bde/firebase-iid-20.2.1/AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/160eb358cc1b51da36f78e160652ce01/play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/160eb358cc1b51da36f78e160652ce01/play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f4263a10985329969f4656dc15ca7bde/firebase-iid-20.2.1/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f4263a10985329969f4656dc15ca7bde/firebase-iid-20.2.1/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f4263a10985329969f4656dc15ca7bde/firebase-iid-20.2.1/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f4263a10985329969f4656dc15ca7bde/firebase-iid-20.2.1/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f4263a10985329969f4656dc15ca7bde/firebase-iid-20.2.1/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f4263a10985329969f4656dc15ca7bde/firebase-iid-20.2.1/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f4263a10985329969f4656dc15ca7bde/firebase-iid-20.2.1/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f4263a10985329969f4656dc15ca7bde/firebase-iid-20.2.1/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f4263a10985329969f4656dc15ca7bde/firebase-iid-20.2.1/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f4263a10985329969f4656dc15ca7bde/firebase-iid-20.2.1/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/f4263a10985329969f4656dc15ca7bde/firebase-iid-20.2.1/AndroidManifest.xml:42:25-78
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d4fa9ae8f7b0112c59ca0d4a260f1536/firebase-installations-16.3.2/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d4fa9ae8f7b0112c59ca0d4a260f1536/firebase-installations-16.3.2/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d4fa9ae8f7b0112c59ca0d4a260f1536/firebase-installations-16.3.2/AndroidManifest.xml:18:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/24932deec142a5b4ca902fb44510f986/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/24932deec142a5b4ca902fb44510f986/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/24932deec142a5b4ca902fb44510f986/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/24932deec142a5b4ca902fb44510f986/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/24932deec142a5b4ca902fb44510f986/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c531877ac574da7730afb759f69e7e3a/play-services-measurement-17.4.3/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e42cd3adecdb17aa0e23e75f0efcbf73/play-services-measurement-impl-17.4.3/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e42cd3adecdb17aa0e23e75f0efcbf73/play-services-measurement-impl-17.4.3/AndroidManifest.xml:26:5-110
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/8ba002f7a68d9d795657eec58afe7752/installreferrer-1.1.2/AndroidManifest.xml:9:5-110
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/8ba002f7a68d9d795657eec58afe7752/installreferrer-1.1.2/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c531877ac574da7730afb759f69e7e3a/play-services-measurement-17.4.3/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c531877ac574da7730afb759f69e7e3a/play-services-measurement-17.4.3/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c531877ac574da7730afb759f69e7e3a/play-services-measurement-17.4.3/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c531877ac574da7730afb759f69e7e3a/play-services-measurement-17.4.3/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c531877ac574da7730afb759f69e7e3a/play-services-measurement-17.4.3/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c531877ac574da7730afb759f69e7e3a/play-services-measurement-17.4.3/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c531877ac574da7730afb759f69e7e3a/play-services-measurement-17.4.3/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c531877ac574da7730afb759f69e7e3a/play-services-measurement-17.4.3/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c531877ac574da7730afb759f69e7e3a/play-services-measurement-17.4.3/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c531877ac574da7730afb759f69e7e3a/play-services-measurement-17.4.3/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c531877ac574da7730afb759f69e7e3a/play-services-measurement-17.4.3/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c531877ac574da7730afb759f69e7e3a/play-services-measurement-17.4.3/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c531877ac574da7730afb759f69e7e3a/play-services-measurement-17.4.3/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c531877ac574da7730afb759f69e7e3a/play-services-measurement-17.4.3/AndroidManifest.xml:40:13-87
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/a8808dfeda94c47fb6332865b0619b8e/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/a8808dfeda94c47fb6332865b0619b8e/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/a8808dfeda94c47fb6332865b0619b8e/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/a8808dfeda94c47fb6332865b0619b8e/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c65d14639602f30c06c81efd5ddd2dc6/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c65d14639602f30c06c81efd5ddd2dc6/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c65d14639602f30c06c81efd5ddd2dc6/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c2ae22d84abffcbb468842d9ca0d4bd6/jetified-facebook-core-7.1.0/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c2ae22d84abffcbb468842d9ca0d4bd6/jetified-facebook-core-7.1.0/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c2ae22d84abffcbb468842d9ca0d4bd6/jetified-facebook-core-7.1.0/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c2ae22d84abffcbb468842d9ca0d4bd6/jetified-facebook-core-7.1.0/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c2ae22d84abffcbb468842d9ca0d4bd6/jetified-facebook-core-7.1.0/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c2ae22d84abffcbb468842d9ca0d4bd6/jetified-facebook-core-7.1.0/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c2ae22d84abffcbb468842d9ca0d4bd6/jetified-facebook-core-7.1.0/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c2ae22d84abffcbb468842d9ca0d4bd6/jetified-facebook-core-7.1.0/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c2ae22d84abffcbb468842d9ca0d4bd6/jetified-facebook-core-7.1.0/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c2ae22d84abffcbb468842d9ca0d4bd6/jetified-facebook-core-7.1.0/AndroidManifest.xml:48:25-92

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">stg호두멤버스</string>
+    <string name="facebook_app_id">373771317074941</string>
+    <string name="facebook_provider">com.facebook.app.FacebookContentProvider373771317074941</string>
+    <string name="default_notification_channel_id">deployPushTest</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">QJgMqZ6sb1eq53f_C0loQYKgg6keTmB9QnYqp</string>
+    <string name="server_client_id">335730985194-7lq4e7dq76n5e8n1rcmlnte8msm291c2.apps.googleusercontent.com</string>
+</resources>

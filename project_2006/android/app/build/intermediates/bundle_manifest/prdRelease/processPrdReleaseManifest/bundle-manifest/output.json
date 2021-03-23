@@ -1,0 +1,1 @@
+[{"outputType":{"type":"BUNDLE_MANIFEST"},"apkData":{"type":"MAIN","splits":[],"versionCode":12,"versionName":"1.2.9","enabled":true,"outputFile":"app-prd-release.apk","fullName":"prdRelease","baseName":"prd-release"},"path":"AndroidManifest.xml","properties":{"packageId":"com.hodoolabs.hodoomembers","split":"","minSdkVersion":"16"}}]

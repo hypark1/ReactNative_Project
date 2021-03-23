@@ -1,0 +1,1 @@
+[{"outputType":{"type":"PROCESSED_RES"},"apkData":{"type":"MAIN","splits":[],"versionCode":12,"versionName":"1.2.9","enabled":true,"outputFile":"app-prd-release.apk","fullName":"prdRelease","baseName":"prd-release"},"path":"resources-prdRelease.ap_","properties":{"packageId":"com.hodoolabs.hodoomembers","split":"","minSdkVersion":"16"}}]

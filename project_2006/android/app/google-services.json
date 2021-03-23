@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "1234567890",
+    "firebase_url": "https://hyeyoung-app.firebaseio.com",
+    "project_id": "hyeyoung-app",
+    "storage_bucket": "hyeyoung-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1234567890:android:5c63f9a22b64996eb3af93",
+        "android_client_info": {
+          "package_name": "com.hyeyoung.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1234567890-1234567890poiuytrewq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "1234567890poiuytrewq"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1234567890-1234567890poiuytrewq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1234567890:android:903138837d594227b3af93",
+        "android_client_info": {
+          "package_name": "com.hyeyoung.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1234567890-1234567890poiuytrewq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hyeyoung.test",
+            "certificate_hash": "1234567890poiuytrewq"
+          }
+        },
+        {
+          "client_id": "1234567890-1234567890poiuytrewq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "1234567890poiuytrewq"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1234567890-1234567890poiuytrewq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1234567890:android:ec836aa93e6ad831b3af93",
+        "android_client_info": {
+          "package_name": "com.hyeyoung.test.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1234567890-1234567890poiuytrewq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "1234567890poiuytrewq"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1234567890-1234567890poiuytrewq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1234567890-1234567890poiuytrewq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hyeyoung.test",
+                "app_store_id": "1234567890"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1234567890:android:263a5edf09d0602fb3af93",
+        "android_client_info": {
+          "package_name": "com.hyeyoung.test.stg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1234567890-1234567890poiuytrewq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "1234567890poiuytrewq"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1234567890-1234567890poiuytrewq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1234567890-1234567890poiuytrewq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hyeyoung.test",
+                "app_store_id": "1234567890"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

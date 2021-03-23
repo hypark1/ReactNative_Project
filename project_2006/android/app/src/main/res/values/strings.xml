@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">호두멤버스</string>
+    <string name="facebook_app_id">296885828034914</string>
+    <string name="facebook_provider">com.facebook.app.FacebookContentProvider296885828034914</string>
+    <string name="default_notification_channel_id">deployPushTest</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">uw3ocGlRqQsb2imptq0oEMqhh4vJudr5Vqmoy</string>
+    <string name="server_client_id">335730985194-7lq4e7dq76n5e8n1rcmlnte8msm291c2.apps.googleusercontent.com</string>
+</resources>
