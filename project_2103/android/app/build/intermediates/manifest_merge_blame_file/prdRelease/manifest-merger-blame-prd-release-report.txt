@@ -1,0 +1,515 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.hodoolabs.ddangkong"
+4    android:versionCode="23"
+5    android:versionName="1.0.10" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml
+10
+11    <!-- 인터넷 사용 권한 설정 -->
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:6:5-67
+12-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:6:22-64
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:7:5-66
+13-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:7:23-63
+14    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+14-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:8:5-81
+14-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:8:23-78
+15    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+15-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:9:5-72
+15-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:9:23-69
+16    <uses-permission android:name="android.permission.WAKE_LOCK" />
+16-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:10:5-68
+16-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:10:22-65
+17    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+17-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:11:5-76
+17-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:11:22-73
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+18-->[:react-native-seoul-naver-login] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-79
+18-->[:react-native-seoul-naver-login] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:22-76
+19    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+19-->[com.google.firebase:firebase-iid:21.0.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/6f9f8d35c78515d4664d77d9a7bfdc2e/jetified-firebase-iid-21.0.1/AndroidManifest.xml:26:5-82
+19-->[com.google.firebase:firebase-iid:21.0.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/6f9f8d35c78515d4664d77d9a7bfdc2e/jetified-firebase-iid-21.0.1/AndroidManifest.xml:26:22-79
+20
+21    <queries>
+21-->[com.kakao.sdk:v2-common:2.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/93bdbcbae5993dae14c4cb6c380b327f/jetified-v2-common-2.3.0/AndroidManifest.xml:11:5-17:15
+22        <package android:name="com.kakao.talk" />
+22-->[com.kakao.sdk:v2-common:2.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/93bdbcbae5993dae14c4cb6c380b327f/jetified-v2-common-2.3.0/AndroidManifest.xml:12:9-50
+22-->[com.kakao.sdk:v2-common:2.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/93bdbcbae5993dae14c4cb6c380b327f/jetified-v2-common-2.3.0/AndroidManifest.xml:12:18-47
+23        <package android:name="com.kakao.onetalk" />
+23-->[com.kakao.sdk:v2-common:2.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/93bdbcbae5993dae14c4cb6c380b327f/jetified-v2-common-2.3.0/AndroidManifest.xml:13:9-53
+23-->[com.kakao.sdk:v2-common:2.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/93bdbcbae5993dae14c4cb6c380b327f/jetified-v2-common-2.3.0/AndroidManifest.xml:13:18-50
+24        <package android:name="com.android.chrome" />
+24-->[com.kakao.sdk:v2-common:2.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/93bdbcbae5993dae14c4cb6c380b327f/jetified-v2-common-2.3.0/AndroidManifest.xml:14:9-54
+24-->[com.kakao.sdk:v2-common:2.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/93bdbcbae5993dae14c4cb6c380b327f/jetified-v2-common-2.3.0/AndroidManifest.xml:14:18-51
+25        <package android:name="com.chrome.beta" />
+25-->[com.kakao.sdk:v2-common:2.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/93bdbcbae5993dae14c4cb6c380b327f/jetified-v2-common-2.3.0/AndroidManifest.xml:15:9-51
+25-->[com.kakao.sdk:v2-common:2.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/93bdbcbae5993dae14c4cb6c380b327f/jetified-v2-common-2.3.0/AndroidManifest.xml:15:18-48
+26        <package android:name="com.chrome.dev" />
+26-->[com.kakao.sdk:v2-common:2.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/93bdbcbae5993dae14c4cb6c380b327f/jetified-v2-common-2.3.0/AndroidManifest.xml:16:9-50
+26-->[com.kakao.sdk:v2-common:2.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/93bdbcbae5993dae14c4cb6c380b327f/jetified-v2-common-2.3.0/AndroidManifest.xml:16:18-47
+27    </queries>
+28
+29    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+29-->[com.google.android.gms:play-services-measurement:18.0.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ef59036b009e79dff07a37bc1bb89b4d/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:26:5-110
+29-->[com.google.android.gms:play-services-measurement:18.0.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ef59036b009e79dff07a37bc1bb89b4d/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:26:22-107
+30    <uses-permission android:name="com.android.vending.BILLING" />
+30-->[com.android.billingclient:billing:3.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e295b09f7ed0087e55eb1f78cfa23f2d/jetified-billing-3.0.0/AndroidManifest.xml:10:5-67
+30-->[com.android.billingclient:billing:3.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e295b09f7ed0087e55eb1f78cfa23f2d/jetified-billing-3.0.0/AndroidManifest.xml:10:22-64
+31
+32    <application
+32-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:13:5-40:19
+33        android:name="com.hodoolabs.ddangkong.MainApplication"
+33-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:14:7-38
+34        android:allowBackup="false"
+34-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:18:7-34
+35        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+35-->[androidx.core:core:1.2.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/87935ee88ccfb8d0fa47555f5a6f660f/core-1.2.0/AndroidManifest.xml:24:18-86
+36        android:icon="@mipmap/ic_launcher"
+36-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:16:7-41
+37        android:label="@string/app_name"
+37-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:15:7-39
+38        android:roundIcon="@mipmap/ic_launcher_round"
+38-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:17:7-52
+39        android:supportsRtl="true"
+39-->[:react-native-seoul-kakao-login] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:9-35
+40        android:theme="@style/AppTheme" >
+40-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:20:7-38
+41        <meta-data
+41-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:21:9-22:60
+42            android:name="com.kakao.sdk.AppKey"
+42-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:21:20-55
+43            android:value="@string/kakao_app_key" />
+43-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:22:20-57
+44
+45        <activity
+45-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:23:7-33:18
+46            android:name="com.hodoolabs.ddangkong.MainActivity"
+46-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:24:9-37
+47            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+47-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:26:9-86
+48            android:label="@string/app_name"
+48-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:25:9-41
+49            android:launchMode="singleTask"
+49-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:27:9-40
+50            android:windowSoftInputMode="adjustResize" >
+50-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:28:9-51
+51            <intent-filter>
+51-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:29:9-32:25
+52                <action android:name="android.intent.action.MAIN" />
+52-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:30:13-65
+52-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:30:21-62
+53
+54                <category android:name="android.intent.category.LAUNCHER" />
+54-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:31:13-73
+54-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:31:23-70
+55            </intent-filter>
+56        </activity>
+57        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+57-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:34:7-84
+57-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:34:17-81
+58
+59        <meta-data
+59-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:35:9-36:72
+60            android:name="com.google.firebase.messaging.default_notification_icon"
+60-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:35:20-90
+61            android:resource="@drawable/ic_notification_icon" />
+61-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:36:20-69
+62        <meta-data
+62-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:37:9-39:54
+63            android:name="com.google.firebase.messaging.default_notification_color"
+63-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:37:20-91
+64            android:resource="@color/notification_color" />
+64-->/Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/src/main/AndroidManifest.xml:38:20-64
+65
+66        <activity
+66-->[:react-native-seoul-naver-login] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:9-18:52
+67            android:name="com.nhn.android.naverlogin.ui.OAuthLoginInAppBrowserActivity"
+67-->[:react-native-seoul-naver-login] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-88
+68            android:configChanges="orientation|screenSize"
+68-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/cbe4de0153eaf3728f5eea55ee4223c2/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:22:13-59
+69            android:label="OAuth2.0 In-app"
+69-->[:react-native-seoul-naver-login] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-44
+70            android:screenOrientation="portrait" /> <!-- 4 -->
+70-->[:react-native-seoul-naver-login] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:13-49
+71        <activity
+71-->[:react-native-seoul-kakao-login] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:23:9-28:20
+72            android:name="com.kakao.auth.authorization.authcode.KakaoWebViewActivity"
+72-->[:react-native-seoul-kakao-login] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:24:13-86
+73            android:configChanges="orientation|screenSize"
+73-->[com.kakao.sdk:auth:1.27.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7fd185ca555b56b65457a022a0d5e01a/jetified-auth-1.27.0/AndroidManifest.xml:14:13-59
+74            android:exported="false"
+74-->[:react-native-seoul-kakao-login] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:25:13-37
+75            android:label="@string/com_kakao_login_button"
+75-->[com.kakao.sdk:auth:1.27.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/7fd185ca555b56b65457a022a0d5e01a/jetified-auth-1.27.0/AndroidManifest.xml:16:13-59
+76            android:launchMode="singleTop"
+76-->[:react-native-seoul-kakao-login] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:26:13-43
+77            android:windowSoftInputMode="adjustResize" >
+77-->[:react-native-seoul-kakao-login] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-seoul/kakao-login/android/build/intermediates/library_manifest/release/AndroidManifest.xml:27:13-55
+78        </activity>
+79
+80        <service android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService" />
+80-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:9-111
+80-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:18-108
+81        <service
+81-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:9-23:19
+82            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService"
+82-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:13-95
+83            android:exported="false" >
+83-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:13-37
+84            <intent-filter>
+84-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:20:13-22:29
+85                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+85-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:17-78
+85-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:25-75
+86            </intent-filter>
+87        </service>
+88
+89        <receiver
+89-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:25:9-32:20
+90            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver"
+90-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:26:13-96
+91            android:exported="true"
+91-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:27:13-36
+92            android:permission="com.google.android.c2dm.permission.SEND" >
+92-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:28:13-73
+93            <intent-filter>
+93-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:29:13-31:29
+94                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+94-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:17-81
+94-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:25-78
+95            </intent-filter>
+96        </receiver>
+97
+98        <meta-data
+98-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:34:9-36:36
+99            android:name="firebase_messaging_auto_init_enabled"
+99-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:35:13-64
+100            android:value="true" />
+100-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:36:13-33
+101        <meta-data
+101-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:37:9-39:32
+102            android:name="com.google.firebase.messaging.default_notification_channel_id"
+102-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:38:13-89
+103            android:value="" />
+103-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-29
+104
+105        <receiver
+105-->[:react-native-device-info] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:9-21:20
+106            android:name="com.learnium.RNDeviceInfo.RNDeviceReceiver"
+106-->[:react-native-device-info] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-70
+107            android:enabled="true"
+107-->[:react-native-device-info] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-35
+108            android:exported="true" >
+108-->[:react-native-device-info] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-36
+109            <intent-filter>
+109-->[:react-native-device-info] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:13-20:29
+110                <action android:name="com.android.vending.INSTALL_REFERRER" />
+110-->[:react-native-device-info] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-79
+110-->[:react-native-device-info] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:25-76
+111            </intent-filter>
+112        </receiver>
+113
+114        <provider
+114-->[:react-native-webview] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-20:20
+115            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+115-->[:react-native-webview] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-83
+116            android:authorities="com.hodoolabs.ddangkong.fileprovider"
+116-->[:react-native-webview] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-64
+117            android:exported="false"
+117-->[:react-native-webview] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+118            android:grantUriPermissions="true" >
+118-->[:react-native-webview] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+119            <meta-data
+119-->[:react-native-webview] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-19:63
+120                android:name="android.support.FILE_PROVIDER_PATHS"
+120-->[:react-native-webview] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:17-67
+121                android:resource="@xml/file_provider_paths" />
+121-->[:react-native-webview] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-60
+122        </provider>
+123
+124        <activity
+124-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/cbe4de0153eaf3728f5eea55ee4223c2/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:17:9-19:67
+125            android:name="com.nhn.android.naverlogin.ui.OAuthLoginActivity"
+125-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/cbe4de0153eaf3728f5eea55ee4223c2/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:18:13-76
+126            android:theme="@style/Theme.AppCompat.Light.Dialog" />
+126-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/cbe4de0153eaf3728f5eea55ee4223c2/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:19:13-64
+127        <activity
+127-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/cbe4de0153eaf3728f5eea55ee4223c2/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:24:9-40:20
+128            android:name="com.nhn.android.naverlogin.ui.OAuthCustomTabActivity"
+128-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/cbe4de0153eaf3728f5eea55ee4223c2/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:25:13-80
+129            android:configChanges="orientation|screenSize"
+129-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/cbe4de0153eaf3728f5eea55ee4223c2/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:26:13-59
+130            android:launchMode="singleTask"
+130-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/cbe4de0153eaf3728f5eea55ee4223c2/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:27:13-44
+131            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+131-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/cbe4de0153eaf3728f5eea55ee4223c2/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:28:13-72
+132            <intent-filter>
+132-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/cbe4de0153eaf3728f5eea55ee4223c2/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:29:13-39:29
+133                <action android:name="android.intent.action.VIEW" />
+133-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/cbe4de0153eaf3728f5eea55ee4223c2/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:30:17-69
+133-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/cbe4de0153eaf3728f5eea55ee4223c2/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:30:25-66
+134
+135                <category android:name="android.intent.category.DEFAULT" />
+135-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/cbe4de0153eaf3728f5eea55ee4223c2/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:32:17-76
+135-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/cbe4de0153eaf3728f5eea55ee4223c2/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:32:27-73
+136                <category android:name="android.intent.category.BROWSABLE" />
+136-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/cbe4de0153eaf3728f5eea55ee4223c2/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:33:17-78
+136-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/cbe4de0153eaf3728f5eea55ee4223c2/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:33:27-75
+137                <!-- Intent URL 에서 로그인 액티비티를 실행하기 위해 설정 -->
+138                <data
+138-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/cbe4de0153eaf3728f5eea55ee4223c2/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:35:17-38:59
+139                    android:host="authorize"
+139-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/cbe4de0153eaf3728f5eea55ee4223c2/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:36:21-45
+140                    android:path="/"
+140-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/cbe4de0153eaf3728f5eea55ee4223c2/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:37:21-37
+141                    android:scheme="naver3rdpartylogin" />
+141-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/cbe4de0153eaf3728f5eea55ee4223c2/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:38:21-56
+142            </intent-filter>
+143        </activity>
+144        <!--
+145             FirebaseMessagingService performs security checks at runtime,
+146             but set to not exported to explicitly avoid allowing another app to call it.
+147        -->
+148        <service
+148-->[com.google.firebase:firebase-messaging:21.0.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e37f524ce2a8542674609654a2eac883/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:28:9-35:19
+149            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+149-->[com.google.firebase:firebase-messaging:21.0.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e37f524ce2a8542674609654a2eac883/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:29:13-82
+150            android:directBootAware="true"
+150-->[com.google.firebase:firebase-messaging:21.0.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e37f524ce2a8542674609654a2eac883/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:30:13-43
+151            android:exported="false" >
+151-->[com.google.firebase:firebase-messaging:21.0.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e37f524ce2a8542674609654a2eac883/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:31:13-37
+152            <intent-filter android:priority="-500" >
+152-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:20:13-22:29
+153                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+153-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:17-78
+153-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:25-75
+154            </intent-filter>
+155        </service>
+156        <service
+156-->[com.google.firebase:firebase-messaging:21.0.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e37f524ce2a8542674609654a2eac883/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:36:9-42:19
+157            android:name="com.google.firebase.components.ComponentDiscoveryService"
+157-->[com.google.firebase:firebase-messaging:21.0.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e37f524ce2a8542674609654a2eac883/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:37:13-84
+158            android:directBootAware="true"
+158-->[com.google.firebase:firebase-common:19.5.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ad8376b3d44eadc62e40221c9c7e96c5/jetified-firebase-common-19.5.0/AndroidManifest.xml:35:13-43
+159            android:exported="false" >
+159-->[com.google.firebase:firebase-messaging:21.0.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e37f524ce2a8542674609654a2eac883/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:38:13-37
+160            <meta-data
+160-->[com.google.firebase:firebase-messaging:21.0.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e37f524ce2a8542674609654a2eac883/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:39:13-41:85
+161                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+161-->[com.google.firebase:firebase-messaging:21.0.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e37f524ce2a8542674609654a2eac883/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:40:17-119
+162                android:value="com.google.firebase.components.ComponentRegistrar" />
+162-->[com.google.firebase:firebase-messaging:21.0.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e37f524ce2a8542674609654a2eac883/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:41:17-82
+163            <meta-data
+163-->[com.google.firebase:firebase-datatransport:17.0.10] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/23cfeab488c037a40ff4a797a5af8e0a/jetified-firebase-datatransport-17.0.10/AndroidManifest.xml:28:13-30:85
+164                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+164-->[com.google.firebase:firebase-datatransport:17.0.10] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/23cfeab488c037a40ff4a797a5af8e0a/jetified-firebase-datatransport-17.0.10/AndroidManifest.xml:29:17-115
+165                android:value="com.google.firebase.components.ComponentRegistrar" />
+165-->[com.google.firebase:firebase-datatransport:17.0.10] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/23cfeab488c037a40ff4a797a5af8e0a/jetified-firebase-datatransport-17.0.10/AndroidManifest.xml:30:17-82
+166            <meta-data
+166-->[com.google.firebase:firebase-iid:21.0.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/6f9f8d35c78515d4664d77d9a7bfdc2e/jetified-firebase-iid-21.0.1/AndroidManifest.xml:32:13-34:85
+167                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+167-->[com.google.firebase:firebase-iid:21.0.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/6f9f8d35c78515d4664d77d9a7bfdc2e/jetified-firebase-iid-21.0.1/AndroidManifest.xml:33:17-96
+168                android:value="com.google.firebase.components.ComponentRegistrar" />
+168-->[com.google.firebase:firebase-iid:21.0.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/6f9f8d35c78515d4664d77d9a7bfdc2e/jetified-firebase-iid-21.0.1/AndroidManifest.xml:34:17-82
+169            <meta-data
+169-->[com.google.android.gms:play-services-measurement-api:18.0.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/1f67ef2ed9290a39cf80d7971b594d2b/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:30:13-32:85
+170                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+170-->[com.google.android.gms:play-services-measurement-api:18.0.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/1f67ef2ed9290a39cf80d7971b594d2b/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:31:17-139
+171                android:value="com.google.firebase.components.ComponentRegistrar" />
+171-->[com.google.android.gms:play-services-measurement-api:18.0.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/1f67ef2ed9290a39cf80d7971b594d2b/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:32:17-82
+172            <meta-data
+172-->[com.google.firebase:firebase-installations:16.3.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/b938a81c0502d143724c1a0ef7616a8e/jetified-firebase-installations-16.3.5/AndroidManifest.xml:18:13-20:85
+173                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+173-->[com.google.firebase:firebase-installations:16.3.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/b938a81c0502d143724c1a0ef7616a8e/jetified-firebase-installations-16.3.5/AndroidManifest.xml:19:17-127
+174                android:value="com.google.firebase.components.ComponentRegistrar" />
+174-->[com.google.firebase:firebase-installations:16.3.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/b938a81c0502d143724c1a0ef7616a8e/jetified-firebase-installations-16.3.5/AndroidManifest.xml:20:17-82
+175            <!--
+176                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
+177                clients to use it as well, by defining this registrar in their own core/common library.
+178            -->
+179            <meta-data
+179-->[com.google.firebase:firebase-common:19.5.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ad8376b3d44eadc62e40221c9c7e96c5/jetified-firebase-common-19.5.0/AndroidManifest.xml:43:13-45:85
+180                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+180-->[com.google.firebase:firebase-common:19.5.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ad8376b3d44eadc62e40221c9c7e96c5/jetified-firebase-common-19.5.0/AndroidManifest.xml:44:17-121
+181                android:value="com.google.firebase.components.ComponentRegistrar" />
+181-->[com.google.firebase:firebase-common:19.5.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ad8376b3d44eadc62e40221c9c7e96c5/jetified-firebase-common-19.5.0/AndroidManifest.xml:45:17-82
+182        </service>
+183        <service
+183-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/08cb527fab7df6923e38e4decb7a56c5/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+184            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+184-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/08cb527fab7df6923e38e4decb7a56c5/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+185            android:exported="false" >
+185-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/08cb527fab7df6923e38e4decb7a56c5/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+186            <meta-data
+186-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/08cb527fab7df6923e38e4decb7a56c5/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+187                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+187-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/08cb527fab7df6923e38e4decb7a56c5/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+188                android:value="cct" />
+188-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/08cb527fab7df6923e38e4decb7a56c5/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+189        </service>
+190
+191        <receiver
+191-->[com.google.firebase:firebase-iid:21.0.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/6f9f8d35c78515d4664d77d9a7bfdc2e/jetified-firebase-iid-21.0.1/AndroidManifest.xml:37:9-44:20
+192            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+192-->[com.google.firebase:firebase-iid:21.0.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/6f9f8d35c78515d4664d77d9a7bfdc2e/jetified-firebase-iid-21.0.1/AndroidManifest.xml:38:13-78
+193            android:exported="true"
+193-->[com.google.firebase:firebase-iid:21.0.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/6f9f8d35c78515d4664d77d9a7bfdc2e/jetified-firebase-iid-21.0.1/AndroidManifest.xml:39:13-36
+194            android:permission="com.google.android.c2dm.permission.SEND" >
+194-->[com.google.firebase:firebase-iid:21.0.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/6f9f8d35c78515d4664d77d9a7bfdc2e/jetified-firebase-iid-21.0.1/AndroidManifest.xml:40:13-73
+195            <intent-filter>
+195-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:29:13-31:29
+196                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+196-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:17-81
+196-->[:react-native-firebase_messaging] /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:25-78
+197            </intent-filter>
+198        </receiver>
+199
+200        <provider
+200-->[com.google.firebase:firebase-common:19.5.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ad8376b3d44eadc62e40221c9c7e96c5/jetified-firebase-common-19.5.0/AndroidManifest.xml:26:9-31:39
+201            android:name="com.google.firebase.provider.FirebaseInitProvider"
+201-->[com.google.firebase:firebase-common:19.5.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ad8376b3d44eadc62e40221c9c7e96c5/jetified-firebase-common-19.5.0/AndroidManifest.xml:27:13-77
+202            android:authorities="com.hodoolabs.ddangkong.firebaseinitprovider"
+202-->[com.google.firebase:firebase-common:19.5.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ad8376b3d44eadc62e40221c9c7e96c5/jetified-firebase-common-19.5.0/AndroidManifest.xml:28:13-72
+203            android:directBootAware="true"
+203-->[com.google.firebase:firebase-common:19.5.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ad8376b3d44eadc62e40221c9c7e96c5/jetified-firebase-common-19.5.0/AndroidManifest.xml:29:13-43
+204            android:exported="false"
+204-->[com.google.firebase:firebase-common:19.5.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ad8376b3d44eadc62e40221c9c7e96c5/jetified-firebase-common-19.5.0/AndroidManifest.xml:30:13-37
+205            android:initOrder="100" />
+205-->[com.google.firebase:firebase-common:19.5.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ad8376b3d44eadc62e40221c9c7e96c5/jetified-firebase-common-19.5.0/AndroidManifest.xml:31:13-36
+206
+207        <service
+207-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/250970cc2c9409004672ba56a7be3c7b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:26:9-30:19
+208            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+208-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/250970cc2c9409004672ba56a7be3c7b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:27:13-117
+209            android:exported="false"
+209-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/250970cc2c9409004672ba56a7be3c7b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:28:13-37
+210            android:permission="android.permission.BIND_JOB_SERVICE" >
+210-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/250970cc2c9409004672ba56a7be3c7b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:29:13-69
+211        </service>
+212
+213        <receiver
+213-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/250970cc2c9409004672ba56a7be3c7b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:32:9-34:40
+214            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+214-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/250970cc2c9409004672ba56a7be3c7b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:33:13-132
+215            android:exported="false" />
+215-->[com.google.android.datatransport:transport-runtime:2.2.5] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/250970cc2c9409004672ba56a7be3c7b/jetified-transport-runtime-2.2.5/AndroidManifest.xml:34:13-37
+216
+217        <activity
+217-->[com.kakao.sdk:v2-auth:2.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c9ebe2456652520cc0fedb907e16affb/jetified-v2-auth-2.3.0/AndroidManifest.xml:12:9-16:56
+218            android:name="com.kakao.sdk.auth.TalkAuthCodeActivity"
+218-->[com.kakao.sdk:v2-auth:2.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c9ebe2456652520cc0fedb907e16affb/jetified-v2-auth-2.3.0/AndroidManifest.xml:13:13-67
+219            android:exported="false"
+219-->[com.kakao.sdk:v2-auth:2.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c9ebe2456652520cc0fedb907e16affb/jetified-v2-auth-2.3.0/AndroidManifest.xml:14:13-37
+220            android:launchMode="singleTask"
+220-->[com.kakao.sdk:v2-auth:2.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c9ebe2456652520cc0fedb907e16affb/jetified-v2-auth-2.3.0/AndroidManifest.xml:15:13-44
+221            android:theme="@style/TransparentCompat" />
+221-->[com.kakao.sdk:v2-auth:2.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c9ebe2456652520cc0fedb907e16affb/jetified-v2-auth-2.3.0/AndroidManifest.xml:16:13-53
+222        <activity
+222-->[com.kakao.sdk:v2-auth:2.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c9ebe2456652520cc0fedb907e16affb/jetified-v2-auth-2.3.0/AndroidManifest.xml:17:9-20:56
+223            android:name="com.kakao.sdk.auth.AuthCodeHandlerActivity"
+223-->[com.kakao.sdk:v2-auth:2.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c9ebe2456652520cc0fedb907e16affb/jetified-v2-auth-2.3.0/AndroidManifest.xml:18:13-70
+224            android:launchMode="singleTask"
+224-->[com.kakao.sdk:v2-auth:2.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c9ebe2456652520cc0fedb907e16affb/jetified-v2-auth-2.3.0/AndroidManifest.xml:19:13-44
+225            android:theme="@style/TransparentCompat" />
+225-->[com.kakao.sdk:v2-auth:2.3.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/c9ebe2456652520cc0fedb907e16affb/jetified-v2-auth-2.3.0/AndroidManifest.xml:20:13-53
+226
+227        <meta-data
+227-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/b3dc4feaa431c3810334e9125d59666b/jetified-okhttp3-integration-4.11.0/AndroidManifest.xml:11:9-13:43
+228            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+228-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/b3dc4feaa431c3810334e9125d59666b/jetified-okhttp3-integration-4.11.0/AndroidManifest.xml:12:13-84
+229            android:value="GlideModule" />
+229-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/b3dc4feaa431c3810334e9125d59666b/jetified-okhttp3-integration-4.11.0/AndroidManifest.xml:13:13-40
+230
+231        <activity
+231-->[com.google.android.gms:play-services-auth:19.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d52908e1584abf55ef1b16770b3ad26d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:23:9-27:75
+232            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+232-->[com.google.android.gms:play-services-auth:19.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d52908e1584abf55ef1b16770b3ad26d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:24:13-93
+233            android:excludeFromRecents="true"
+233-->[com.google.android.gms:play-services-auth:19.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d52908e1584abf55ef1b16770b3ad26d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:25:13-46
+234            android:exported="false"
+234-->[com.google.android.gms:play-services-auth:19.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d52908e1584abf55ef1b16770b3ad26d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:26:13-37
+235            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+235-->[com.google.android.gms:play-services-auth:19.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d52908e1584abf55ef1b16770b3ad26d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:27:13-72
+236        <!--
+237            Service handling Google Sign-In user revocation. For apps that do not integrate with
+238            Google Sign-In, this service will never be started.
+239        -->
+240        <service
+240-->[com.google.android.gms:play-services-auth:19.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d52908e1584abf55ef1b16770b3ad26d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:33:9-37:51
+241            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+241-->[com.google.android.gms:play-services-auth:19.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d52908e1584abf55ef1b16770b3ad26d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:34:13-89
+242            android:exported="true"
+242-->[com.google.android.gms:play-services-auth:19.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d52908e1584abf55ef1b16770b3ad26d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:35:13-36
+243            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+243-->[com.google.android.gms:play-services-auth:19.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d52908e1584abf55ef1b16770b3ad26d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:36:13-107
+244            android:visibleToInstantApps="true" />
+244-->[com.google.android.gms:play-services-auth:19.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/d52908e1584abf55ef1b16770b3ad26d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:37:13-48
+245
+246        <activity
+246-->[com.google.android.gms:play-services-base:17.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/6380316b814d9b5db51387848a5cb207/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+247            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+247-->[com.google.android.gms:play-services-base:17.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/6380316b814d9b5db51387848a5cb207/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+248            android:exported="false"
+248-->[com.google.android.gms:play-services-base:17.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/6380316b814d9b5db51387848a5cb207/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+249            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+249-->[com.google.android.gms:play-services-base:17.1.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/6380316b814d9b5db51387848a5cb207/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+250
+251        <receiver
+251-->[com.google.android.gms:play-services-measurement:18.0.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ef59036b009e79dff07a37bc1bb89b4d/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:29:9-33:20
+252            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+252-->[com.google.android.gms:play-services-measurement:18.0.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ef59036b009e79dff07a37bc1bb89b4d/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:30:13-85
+253            android:enabled="true"
+253-->[com.google.android.gms:play-services-measurement:18.0.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ef59036b009e79dff07a37bc1bb89b4d/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:31:13-35
+254            android:exported="false" >
+254-->[com.google.android.gms:play-services-measurement:18.0.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ef59036b009e79dff07a37bc1bb89b4d/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:32:13-37
+255        </receiver>
+256
+257        <service
+257-->[com.google.android.gms:play-services-measurement:18.0.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ef59036b009e79dff07a37bc1bb89b4d/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:35:9-38:40
+258            android:name="com.google.android.gms.measurement.AppMeasurementService"
+258-->[com.google.android.gms:play-services-measurement:18.0.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ef59036b009e79dff07a37bc1bb89b4d/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:36:13-84
+259            android:enabled="true"
+259-->[com.google.android.gms:play-services-measurement:18.0.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ef59036b009e79dff07a37bc1bb89b4d/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:37:13-35
+260            android:exported="false" />
+260-->[com.google.android.gms:play-services-measurement:18.0.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ef59036b009e79dff07a37bc1bb89b4d/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:38:13-37
+261        <service
+261-->[com.google.android.gms:play-services-measurement:18.0.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ef59036b009e79dff07a37bc1bb89b4d/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:39:9-43:72
+262            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+262-->[com.google.android.gms:play-services-measurement:18.0.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ef59036b009e79dff07a37bc1bb89b4d/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:40:13-87
+263            android:enabled="true"
+263-->[com.google.android.gms:play-services-measurement:18.0.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ef59036b009e79dff07a37bc1bb89b4d/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:41:13-35
+264            android:exported="false"
+264-->[com.google.android.gms:play-services-measurement:18.0.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ef59036b009e79dff07a37bc1bb89b4d/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:42:13-37
+265            android:permission="android.permission.BIND_JOB_SERVICE" />
+265-->[com.google.android.gms:play-services-measurement:18.0.2] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/ef59036b009e79dff07a37bc1bb89b4d/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:43:13-69
+266
+267        <meta-data
+267-->[com.google.android.gms:play-services-basement:17.1.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/12839434104a266009a3b31c9d2f40f1/jetified-play-services-basement-17.1.1/AndroidManifest.xml:23:9-25:69
+268            android:name="com.google.android.gms.version"
+268-->[com.google.android.gms:play-services-basement:17.1.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/12839434104a266009a3b31c9d2f40f1/jetified-play-services-basement-17.1.1/AndroidManifest.xml:24:13-58
+269            android:value="@integer/google_play_services_version" />
+269-->[com.google.android.gms:play-services-basement:17.1.1] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/12839434104a266009a3b31c9d2f40f1/jetified-play-services-basement-17.1.1/AndroidManifest.xml:25:13-66
+270        <meta-data
+270-->[com.android.billingclient:billing:3.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e295b09f7ed0087e55eb1f78cfa23f2d/jetified-billing-3.0.0/AndroidManifest.xml:13:9-15:37
+271            android:name="com.google.android.play.billingclient.version"
+271-->[com.android.billingclient:billing:3.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e295b09f7ed0087e55eb1f78cfa23f2d/jetified-billing-3.0.0/AndroidManifest.xml:14:13-73
+272            android:value="3.0.0" />
+272-->[com.android.billingclient:billing:3.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e295b09f7ed0087e55eb1f78cfa23f2d/jetified-billing-3.0.0/AndroidManifest.xml:15:13-34
+273
+274        <activity
+274-->[com.android.billingclient:billing:3.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e295b09f7ed0087e55eb1f78cfa23f2d/jetified-billing-3.0.0/AndroidManifest.xml:17:9-20:75
+275            android:name="com.android.billingclient.api.ProxyBillingActivity"
+275-->[com.android.billingclient:billing:3.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e295b09f7ed0087e55eb1f78cfa23f2d/jetified-billing-3.0.0/AndroidManifest.xml:18:13-78
+276            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+276-->[com.android.billingclient:billing:3.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e295b09f7ed0087e55eb1f78cfa23f2d/jetified-billing-3.0.0/AndroidManifest.xml:19:13-96
+277            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+277-->[com.android.billingclient:billing:3.0.0] /Users/hodoolabs/.gradle/caches/transforms-2/files-2.1/e295b09f7ed0087e55eb1f78cfa23f2d/jetified-billing-3.0.0/AndroidManifest.xml:20:13-72
+278    </application>
+279
+280</manifest>

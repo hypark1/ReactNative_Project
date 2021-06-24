@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "926374297912",
+    "project_id": "ddangkongschool",
+    "storage_bucket": "ddangkongschool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926374297912:android:9ef1e1b331ea27fa4101cd",
+        "android_client_info": {
+          "package_name": "com.hodoolabs.ddangkong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926374297912-2ht5cknt1t4qn4mmocb5lideu9n7beb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hodoolabs.ddangkong",
+            "certificate_hash": "0641cb416f25a9c538c4cd8b088f381feb834af0"
+          }
+        },
+        {
+          "client_id": "926374297912-ia0jm4qi29l8ldfuvmmf637snbkao3ij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hodoolabs.ddangkong",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "926374297912-o98smppb4fnalp70teqpeqdodcu12krh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv65BNhO0YUf-YqdEbksuacwWNNknhfMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926374297912-o98smppb4fnalp70teqpeqdodcu12krh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "926374297912-38h6m0cp0nkmmmesoui5pdmtmru2a7li.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hodoolabs.ddangkong",
+                "app_store_id": "1550862838"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926374297912:android:7e46bb7efa1604fb4101cd",
+        "android_client_info": {
+          "package_name": "com.hodoolabs.ddangkong.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926374297912-33qn1a4ovmjb1g3o3v0q3d92if3dksme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hodoolabs.ddangkong.dev",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "926374297912-g3j33o71ta68rqvjen9toqcoikdi3dj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hodoolabs.ddangkong.dev",
+            "certificate_hash": "0641cb416f25a9c538c4cd8b088f381feb834af0"
+          }
+        },
+        {
+          "client_id": "926374297912-mrji7hovigh9f2fvelu9pt3votfmrbpk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hodoolabs.ddangkong.dev",
+            "certificate_hash": "50278e2254c3c2773881074619fba43a9b0701d0"
+          }
+        },
+        {
+          "client_id": "926374297912-o98smppb4fnalp70teqpeqdodcu12krh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv65BNhO0YUf-YqdEbksuacwWNNknhfMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926374297912-o98smppb4fnalp70teqpeqdodcu12krh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "926374297912-38h6m0cp0nkmmmesoui5pdmtmru2a7li.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hodoolabs.ddangkong",
+                "app_store_id": "1550862838"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

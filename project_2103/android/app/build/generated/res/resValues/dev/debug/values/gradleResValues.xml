@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Values from build type: debug -->
+    <integer name="react_native_dev_server_port">8081</integer>
+    <integer name="react_native_inspector_proxy_port">8081</integer>
+    <!-- Values from default config. -->
+    <string name="API_URL" translatable="false">"https://devdkapi.hodooenglish.com"</string>
+    <string name="API_URL_PA" translatable="false">"https://devpaapi.hodooenglish.com"</string>
+    <string name="ENV" translatable="false">"dev"</string>
+    <string name="IMG_URL" translatable="false">"https://static.hodooenglish.com"</string>
+    <string name="build_config_package" translatable="false">com.hodoolabs.ddangkong</string>
+
+</resources>

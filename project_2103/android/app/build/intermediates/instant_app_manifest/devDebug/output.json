@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_APP_MANIFEST"},"apkData":{"type":"MAIN","splits":[],"versionCode":23,"versionName":"1.0.10-dev","enabled":true,"outputFile":"app-dev-debug.apk","fullName":"devDebug","baseName":"dev-debug","dirName":""},"path":"AndroidManifest.xml","properties":{"packageId":"com.hodoolabs.ddangkong.dev","split":"","minSdkVersion":"19"}}]

@@ -1,0 +1,1 @@
+[{"outputType":{"type":"PROCESSED_RES"},"apkData":{"type":"MAIN","splits":[],"versionCode":23,"versionName":"1.0.10","enabled":true,"outputFile":"app-prd-release.apk","fullName":"prdRelease","baseName":"prd-release","dirName":""},"path":"resources-prdRelease.ap_","properties":{"packageId":"com.hodoolabs.ddangkong","split":"","minSdkVersion":"19"}}]

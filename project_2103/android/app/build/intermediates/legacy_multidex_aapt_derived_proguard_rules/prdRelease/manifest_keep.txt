@@ -1,0 +1,4 @@
+# Referenced at /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/build/intermediates/merged_manifests/prdRelease/AndroidManifest.xml:32
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/hodoolabs/WebstormProjects/GSP-V2-DKfront-real/ddangkong/android/app/build/intermediates/merged_manifests/prdRelease/AndroidManifest.xml:32
+-keep class com.hodoolabs.ddangkong.MainApplication { <init>(); }
